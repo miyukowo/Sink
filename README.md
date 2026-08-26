@@ -17,7 +17,7 @@
 ---
 
 ### 🌐 My Instance
-- **Production URL:** [go.tvphus.dev](https://go.tvphus.dev) / [s.tvphus.dev](https://s.tvphus.dev)
+- **Production URL:** [go.tvphus.dev](https://go.tvphus.dev)
 - **Shortener Engine:** 100% Serverless on Cloudflare (Workers, D1, KV, Analytics Engine)
 
 ---
